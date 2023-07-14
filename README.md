@@ -1,9 +1,9 @@
 
 
 <h1>Glassmorphism Mobile Interface for Power Apps</h1>
-<br>
-<i>Welcome to the Glassmorphism Mobile Interface repository for Power Apps! This repository is dedicated to showcasing a sleek and modern user interface design using the popular glassmorphism aesthetic, specifically tailored for mobile applications developed with Power Apps.</i>
 
+<i>Welcome to the Glassmorphism Mobile Interface repository for Power Apps! This repository is dedicated to showcasing a sleek and modern user interface design using the popular glassmorphism aesthetic, specifically tailored for mobile applications developed with Power Apps.</i>
+<br>
 <img src='https://github.com/leorrusso/PowerAppsGlassmorphism/blob/main/images/UI.png'>
 
 Glassmorphism is a design trend that brings a sense of transparency, depth, and realism to user interfaces. It combines frosted glass-like backgrounds, subtle gradients, and soft shadows to create a visually appealing and intuitive user experience. In this repository, we have implemented glassmorphism principles to create a stunning mobile interface for your Power Apps projects.
