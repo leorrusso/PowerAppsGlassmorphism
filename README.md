@@ -1,6 +1,7 @@
 
 
 <h1>Glassmorphism Mobile Interface for Power Apps</h1>
+<br>
 <i>Welcome to the Glassmorphism Mobile Interface repository for Power Apps! This repository is dedicated to showcasing a sleek and modern user interface design using the popular glassmorphism aesthetic, specifically tailored for mobile applications developed with Power Apps.</i>
 
 <img src='https://github.com/leorrusso/PowerAppsGlassmorphism/blob/main/images/UI.png'>
